@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF5E8C55-3C9E-4A6B-A1C6-878B9AD8F4B7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89F8FB2A-0DF6-4CFE-A599-14CA27B73238"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1-Navigation Controller/Controller/SettingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SettingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "89F8FB2A-0DF6-4CFE-A599-14CA27B73238 - c2a934313df26bbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Navigation_Controller.SettingViewController.gameTimeField.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "1-Navigation Controller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethan/Downloads/NavigationController/1-Navigation%20Controller/Controller/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "89F8FB2A-0DF6-4CFE-A599-14CA27B73238 - c44be5aeec05a3a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Navigation_Controller.SettingViewController.gameTimeField.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "1-Navigation Controller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethan/Downloads/NavigationController/1-Navigation%20Controller/Controller/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "89F8FB2A-0DF6-4CFE-A599-14CA27B73238 - 519a07e4057da088"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Navigation_Controller.SettingViewController.gameTimeField.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "1-Navigation Controller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethan/Downloads/NavigationController/1-Navigation%20Controller/Controller/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "89F8FB2A-0DF6-4CFE-A599-14CA27B73238 - e407d8e728a917fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Navigation_Controller.SettingViewController.gameTimeField.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "1-Navigation Controller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethan/Downloads/NavigationController/1-Navigation%20Controller/Controller/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "89F8FB2A-0DF6-4CFE-A599-14CA27B73238 - 5e5b3768e46e4839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Navigation_Controller.SettingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; __Navigation_Controller.SettingViewController"
+                  moduleName = "1-Navigation Controller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethan/Downloads/NavigationController/1-Navigation%20Controller/Controller/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "89F8FB2A-0DF6-4CFE-A599-14CA27B73238 - ef3d1ee0f5882115"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Navigation_Controller.SettingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;__Navigation_Controller.SettingViewController&gt;"
+                  moduleName = "1-Navigation Controller"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethan/Downloads/NavigationController/1-Navigation%20Controller/Controller/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
