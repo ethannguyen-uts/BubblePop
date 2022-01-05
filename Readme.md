@@ -8,10 +8,10 @@ the points for the additional bubbles they pop. Finally, game scores are saved a
 
 # Application UI
 
-!Home(https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
+![Home](https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
 
-!GameSetting(https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
+![GameSetting](https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
 
-!GamePlay(https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
+![GamePlay](https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
 
-!HighScore(https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
+![HighScore](https://github.com/ethannguyen-uts/BubblePop/blob/main/Images/GamePlay.png?raw=true)
